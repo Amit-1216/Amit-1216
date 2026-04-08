@@ -35,7 +35,7 @@
 ### 🚗 Autonomous Car Simulation
 - Built a simulation to explore autonomous vehicle movement and sensor-based logic
 - Gained hands-on experience with Unity and simulation environments  
-🔗 Repo: https://github.com/Amit-1216/autonomous-car-simulation
+🔗 Repo: https://github.com/Amit-1216/autonomous-car-simulation-mlagents
 
 ---
 
