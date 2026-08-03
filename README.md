@@ -144,6 +144,32 @@ Implementations of Arrays, Linked Lists, Stacks, Queues, Sorting Algorithms, and
 
 </div>
 
+### 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy-fork-two.vercel.app/?username=Amit-1216&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub Trophies"/>
+
+</div>
+
+### 📊 Contribution Activity Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Amit-1216&theme=tokyo-night&hide_border=true" alt="Activity Graph" width="100%"/>
+
+</div>
+
+<div align="center">
+
+
+
+![Profile Views](https://komarev.com/ghpvc/?username=Amit-1216&color=2E9EF7&style=for-the-badge&label=PROFILE+VIEWS)
+
+
+
+</div>
+
 ---
 
 ## 🤝 Let's Connect
