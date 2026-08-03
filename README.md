@@ -1,141 +1,129 @@
 # Hi 👋, I'm Amit Maurya
 
-## 🚀 Aspiring Data Analyst | MIS Executive | Python • SQL • Power BI • Pandas
+## 💻 MIS Executive | Data Analyst | Machine Learning Enthusiast
 
-I'm passionate about transforming raw data into meaningful insights that help drive better decisions.
+🎓 B.Sc. Information Technology Graduate from the University of Mumbai
 
-Currently working as an **MIS Executive**, where I work with business data, reporting, and Excel. Alongside my professional role, I'm continuously building my expertise in **Data Analytics** by developing real-world projects using Python, SQL, Power BI, and Statistics.
+📊 Currently working as an MIS Executive at Luthra Projects, where I automate reporting, analyze business data, and build efficient data workflows using Python and Advanced Excel.
 
----
-
-## 💼 Current Focus
-
-- 📊 Data Analysis & Business Intelligence
-- 🐍 Python for Data Analytics
-- 🗄 SQL
-- 📈 Power BI Dashboard Development
-- 📑 Advanced Excel
-- 📊 Statistics & Probability
-- 🤖 Machine Learning (Learning)
+🚀 Passionate about Data Analytics, Machine Learning, Artificial Intelligence, and solving real-world business problems through data.
 
 ---
 
-## 🛠 Tech Stack
+## 🚀 About Me
+
+- 💼 MIS Executive at Luthra Projects
+- 📈 Experienced in Data Analysis and Business Reporting
+- 🐍 Strong foundation in Python for Data Analytics
+- 🤖 Built a Reinforcement Learning-based Autonomous Car Simulation using Unity ML-Agents
+- 📚 Continuously learning Machine Learning and AI
+- 🎯 Looking to build impactful AI and Data Science projects
+
+---
+
+## 🛠 Technical Skills
 
 ### Programming
 - Python
-
-### Data Analysis
-- Pandas
-- NumPy
-
-### Data Visualization
-- Matplotlib
-- Seaborn
-- Power BI
-
-### Database
 - SQL
 
-### Spreadsheet Tools
-- Advanced Excel
-- Pivot Tables
-- Power Query
+### Data Analytics
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- Exploratory Data Analysis (EDA)
+- Data Cleaning
+- Data Visualization
 
-### Tools
+### Business Intelligence
+- Advanced Microsoft Excel
+- Power BI
+- MIS Reporting
+- Dashboard Development
+
+### Machine Learning
+- Supervised Learning (Learning)
+- Reinforcement Learning
+- Unity ML-Agents
+
+### Tools & Technologies
 - Git
 - GitHub
 - Jupyter Notebook
-- Google Colab
 - VS Code
+- Unity
+- Microsoft Office
 
 ---
 
-# 📌 Featured Projects
+# 🚀 Featured Projects
 
 ## 📊 Exploratory Sales Data Analysis
 
 - Performed end-to-end Exploratory Data Analysis using Python
-- Cleaned and transformed raw datasets
-- Generated business insights using visualizations
+- Cleaned and transformed real-world retail datasets
+- Identified customer purchasing trends and business insights
+- Created visualizations using Matplotlib and Seaborn
 
 🔗 Repository:
-<PRIVATE_URL>
+https://github.com/Amit-1216/exploratory-sales-data-analysis
 
 ---
 
-## 🏥 Hospital Patient Data Analysis
+## 🤖 Autonomous Car Simulation using Reinforcement Learning
 
-- Cleaned healthcare datasets using Pandas
-- Merged multiple datasets
-- Performed group-wise analysis
-- Prepared data for further business analysis
+- Developed an autonomous driving simulation in Unity
+- Trained an AI agent using Reinforcement Learning (ML-Agents)
+- Implemented checkpoints, rewards, obstacle avoidance, and lane navigation
+- Explored intelligent agent behavior in simulated environments
+
+🔗 Repository:
+https://github.com/Amit-1216/autonomous-car-simulation-mlagents
 
 ---
 
-## 🚢 Titanic Data Analysis
+## 🧠 Data Structures & Algorithms in Python
 
-Solved multiple real-world Pandas problems including:
+- Implemented Arrays, Linked Lists, Stacks, Queues, Sorting Algorithms, and Recursion
+- Focused on problem-solving and writing efficient Python code
 
-- GroupBy Operations
-- Missing Value Handling
+🔗 Repository:
+https://github.com/Amit-1216/data-structures-and-algorithms-python
+
+---
+
+## 🌱 Currently Learning
+
+- Machine Learning Algorithms
+- Scikit-learn
 - Feature Engineering
-- Data Cleaning
-- Aggregations using agg()
-- transform()
+- Model Evaluation
+- Artificial Intelligence
+- Deep Learning Fundamentals
 
 ---
 
-## 📊 Excel Report Automation
+## 📈 Current Focus
 
-Automated a multi-sheet Excel analysis workflow using Python.
+✔ Data Analytics
 
-Workflow:
+✔ Machine Learning
 
-- Imported multiple Excel sheets
-- Cleaned data using Pandas
-- Performed business analysis
-- Exported results back to Excel
-- Generated visualizations using Matplotlib
+✔ Artificial Intelligence
 
-This significantly reduced manual effort compared to performing the analysis entirely in Excel.
+✔ Business Intelligence
+
+✔ Automation using Python
 
 ---
 
-# 🌱 Currently Learning
-
-- Advanced SQL
-- Statistics & Probability
-- Power BI (DAX & Dashboarding)
-- Machine Learning
-- End-to-End Data Analysis Projects
-
----
-
-# 📈 GitHub Stats
-
-I regularly upload:
-
-- Python Practice
-- Pandas Assignments
-- SQL Practice
-- Data Analysis Projects
-- Power BI Dashboards
-- Learning Notes
-
----
-
-# 🤝 Let's Connect
+## 🤝 Let's Connect
 
 💼 LinkedIn:
-(Your LinkedIn URL)
+www.linkedin.com/in/amit-maurya-1216
 
-💻 GitHub:
+🐙 GitHub:
 https://github.com/Amit-1216
 
-📧 Email:
-(Your Email)
-
----
-
-⭐ *Always learning, building, and sharing my journey in Data Analytics.*
+⭐ Feel free to explore my repositories and connect with me!
