@@ -137,10 +137,10 @@ Implementations of Arrays, Linked Lists, Stacks, Queues, Sorting Algorithms, and
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Amit-1216&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Amit's GitHub Stats" height="165"/>
+<img src="https://github-stats-extended.vercel.app/api?username=Amit-1216&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Amit's GitHub Stats" height="165"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Amit-1216&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amit-1216&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165"/>
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Amit-1216&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165"/>
 
 </div>
 
