@@ -1,129 +1,177 @@
-# Hi 👋, I'm Amit Maurya
+<div align="center">
 
-## 💻 MIS Executive | Data Analyst | Machine Learning Enthusiast
+# Hi, I'm Amit Maurya 👋
 
-🎓 B.Sc. Information Technology Graduate from the University of Mumbai
+### MIS Executive | Data Analyst | Machine Learning Enthusiast
 
-📊 Currently working as an MIS Executive at Luthra Projects, where I automate reporting, analyze business data, and build efficient data workflows using Python and Advanced Excel.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Turning+raw+data+into+business+insights;Building+AI+%26+ML+projects+for+the+real+world;Automating+workflows+with+Python+%26+Excel;Always+learning%2C+always+building" alt="Typing SVG" />
 
-🚀 Passionate about Data Analytics, Machine Learning, Artificial Intelligence, and solving real-world business problems through data.
+[
 
----
+![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)
 
-## 🚀 About Me
+](https://www.linkedin.com/in/amit-maurya-1216)
+[
 
-- 💼 MIS Executive at Luthra Projects
-- 📈 Experienced in Data Analysis and Business Reporting
-- 🐍 Strong foundation in Python for Data Analytics
-- 🤖 Built a Reinforcement Learning-based Autonomous Car Simulation using Unity ML-Agents
-- 📚 Continuously learning Machine Learning and AI
-- 🎯 Looking to build impactful AI and Data Science projects
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
----
+](https://github.com/Amit-1216)
 
-## 🛠 Technical Skills
-
-### Programming
-- Python
-- SQL
-
-### Data Analytics
-- Pandas
-- NumPy
-- Matplotlib
-- Seaborn
-- Exploratory Data Analysis (EDA)
-- Data Cleaning
-- Data Visualization
-
-### Business Intelligence
-- Advanced Microsoft Excel
-- Power BI
-- MIS Reporting
-- Dashboard Development
-
-### Machine Learning
-- Supervised Learning (Learning)
-- Reinforcement Learning
-- Unity ML-Agents
-
-### Tools & Technologies
-- Git
-- GitHub
-- Jupyter Notebook
-- VS Code
-- Unity
-- Microsoft Office
+</div>
 
 ---
 
-# 🚀 Featured Projects
+## 🎯 About Me
 
-## 📊 Exploratory Sales Data Analysis
-
-- Performed end-to-end Exploratory Data Analysis using Python
-- Cleaned and transformed real-world retail datasets
-- Identified customer purchasing trends and business insights
-- Created visualizations using Matplotlib and Seaborn
-
-🔗 Repository:
-https://github.com/Amit-1216/exploratory-sales-data-analysis
+- 🎓 **B.Sc. Information Technology** graduate from the University of Mumbai
+- 💼 Currently working as an **MIS Executive at Luthra Projects**, automating reporting and building efficient data workflows with Python and Advanced Excel
+- 📊 Passionate about **Data Analytics, Machine Learning & AI**, and solving real business problems through data
+- 🤖 Built a **Reinforcement Learning–based Autonomous Car Simulation** using Unity ML-Agents
+- 📚 Currently deepening my skills in **Scikit-learn, Feature Engineering, and Deep Learning**
+- 🎯 Looking to collaborate on impactful **AI and Data Science projects**
 
 ---
 
-## 🤖 Autonomous Car Simulation using Reinforcement Learning
+## 🛠️ Tech Stack
 
-- Developed an autonomous driving simulation in Unity
-- Trained an AI agent using Reinforcement Learning (ML-Agents)
-- Implemented checkpoints, rewards, obstacle avoidance, and lane navigation
-- Explored intelligent agent behavior in simulated environments
+<div align="center">
 
-🔗 Repository:
-https://github.com/Amit-1216/autonomous-car-simulation-mlagents
+**Programming & Databases**
+
+
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+
+
+
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+
+
+**Data Analytics**
+
+
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+
+
+
+
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+
+
+
+
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white)
+
+
+
+
+![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge)
+
+
+
+**Business Intelligence**
+
+
+
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+
+
+
+
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+
+
+
+**Machine Learning & Simulation**
+
+
+
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+
+
+
+
+![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
+
+
+
+**Tools**
+
+
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+
+
+
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+
+
+
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+
+
+
+
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+
+
+</div>
 
 ---
 
-## 🧠 Data Structures & Algorithms in Python
+## 🚀 Featured Projects
 
-- Implemented Arrays, Linked Lists, Stacks, Queues, Sorting Algorithms, and Recursion
-- Focused on problem-solving and writing efficient Python code
+### 📊 [Exploratory Sales Data Analysis](https://github.com/Amit-1216/exploratory-sales-data-analysis)
+End-to-end EDA on real-world retail data — cleaning, transforming, and visualizing customer purchasing trends to surface actionable business insights using Python, Pandas, Matplotlib, and Seaborn.
 
-🔗 Repository:
-https://github.com/Amit-1216/data-structures-and-algorithms-python
+### 🤖 [Autonomous Car Simulation using Reinforcement Learning](https://github.com/Amit-1216/autonomous-car-simulation-mlagents)
+A Unity-based autonomous driving simulation where an AI agent learns lane navigation, obstacle avoidance, and checkpoint-based rewards using Reinforcement Learning (ML-Agents).
+
+### 🧠 [Data Structures & Algorithms in Python](https://github.com/Amit-1216/data-structures-and-algorithms-python)
+Implementations of Arrays, Linked Lists, Stacks, Queues, Sorting Algorithms, and Recursion, with a focus on writing clean, efficient, problem-solving code.
 
 ---
 
 ## 🌱 Currently Learning
 
-- Machine Learning Algorithms
-- Scikit-learn
-- Feature Engineering
-- Model Evaluation
-- Artificial Intelligence
-- Deep Learning Fundamentals
+`Machine Learning Algorithms` `Scikit-learn` `Feature Engineering` `Model Evaluation` `Deep Learning Fundamentals` `Artificial Intelligence`
 
 ---
 
-## 📈 Current Focus
+## 📈 GitHub Stats
 
-✔ Data Analytics
+<div align="center">
 
-✔ Machine Learning
+<img src="https://github-readme-stats.vercel.app/api?username=Amit-1216&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Amit's GitHub Stats" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Amit-1216&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165"/>
 
-✔ Artificial Intelligence
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amit-1216&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165"/>
 
-✔ Business Intelligence
-
-✔ Automation using Python
+</div>
 
 ---
 
 ## 🤝 Let's Connect
 
-💼 LinkedIn:
-www.linkedin.com/in/amit-maurya-1216
+<div align="center">
 
-🐙 GitHub:
-https://github.com/Amit-1216
+[
 
-⭐ Feel free to explore my repositories and connect with me!
+![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)
+
+](https://www.linkedin.com/in/amit-maurya-1216)
+[
+
+![GitHub](https://img.shields.io/badge/GitHub-Explore-181717?style=for-the-badge&logo=github&logoColor=white)
+
+](https://github.com/Amit-1216)
+
+⭐ Feel free to explore my repositories, open an issue, or connect — always happy to talk data, ML, and automation!
+
+</div>
