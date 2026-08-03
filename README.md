@@ -144,14 +144,6 @@ Implementations of Arrays, Linked Lists, Stacks, Queues, Sorting Algorithms, and
 
 </div>
 
-### 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy-liard-delta.vercel.app/?username=Amit-1216&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub Trophies"/>
-
-</div>
-
 ### 📊 Contribution Activity Graph
 
 <div align="center">
