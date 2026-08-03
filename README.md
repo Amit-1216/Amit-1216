@@ -108,6 +108,12 @@
 
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
+**Statistics**
+
+![Statistics](https://img.shields.io/badge/Statistics-4285F4?style=for-the-badge)
+
+![Probability](https://img.shields.io/badge/Probability-6A1B9A?style=for-the-badge)
+
 
 
 </div>
