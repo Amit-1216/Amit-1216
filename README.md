@@ -148,7 +148,7 @@ Implementations of Arrays, Linked Lists, Stacks, Queues, Sorting Algorithms, and
 
 <div align="center">
 
-<img src="https://github-profile-trophy-fork-two.vercel.app/?username=Amit-1216&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub Trophies"/>
+<img src="https://github-profile-trophy-liard-delta.vercel.app/?username=Amit-1216&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub Trophies"/>
 
 </div>
 
