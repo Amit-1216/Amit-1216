@@ -148,7 +148,7 @@ Implementations of Arrays, Linked Lists, Stacks, Queues, Sorting Algorithms, and
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Amit-1216&theme=tokyo-night&hide_border=true" alt="Activity Graph" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Amit-1216&theme=tokyo-night&hide_border=true&from=2026-01-01&to=2026-12-31" alt="Activity Graph" width="100%"/>
 
 </div>
 
