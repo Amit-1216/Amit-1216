@@ -78,7 +78,7 @@
 
 
 
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Reinforcement Learning](https://img.shields.io/badge/Reinforcement_Learning-4B0082?style=for-the-badge&logo=openaigym&logoColor=white)
 
 
 
