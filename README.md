@@ -6,17 +6,6 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Turning+raw+data+into+business+insights;Building+AI+%26+ML+projects+for+the+real+world;Automating+workflows+with+Python+%26+Excel;Always+learning%2C+always+building" alt="Typing SVG" />
 
-[
-
-![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)
-
-](https://www.linkedin.com/in/amit-maurya-1216)
-[
-
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
-](https://github.com/Amit-1216)
-
 </div>
 
 ---
@@ -161,16 +150,12 @@ Implementations of Arrays, Linked Lists, Stacks, Queues, Sorting Algorithms, and
 
 <div align="center">
 
-[
-
-![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)
-
-](https://www.linkedin.com/in/amit-maurya-1216)
-[
-
-![GitHub](https://img.shields.io/badge/GitHub-Explore-181717?style=for-the-badge&logo=github&logoColor=white)
-
-](https://github.com/Amit-1216)
+<a href="https://www.linkedin.com/in/amit-maurya-62b290217" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="mailto:amitmaurya4419@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="https://wa.me/919220056307" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a>
+<a href="https://amit-1216.github.io/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+<a href="https://github.com/Amit-1216" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+<a href="https://www.instagram.com/amit__1016" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
 
 ⭐ Feel free to explore my repositories, open an issue, or connect — always happy to talk data, ML, and automation!
 
