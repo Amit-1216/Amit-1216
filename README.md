@@ -1,50 +1,141 @@
 # Hi 👋, I'm Amit Maurya
 
-🎓 BscIT student passionate about Python, Data Analysis, and Problem Solving  
-📊 Interested in Data Analytics, Data Science, and Machine Learning  
-🚀 Actively building projects and improving core fundamentals  
+## 🚀 Aspiring Data Analyst | MIS Executive | Python • SQL • Power BI • Pandas
+
+I'm passionate about transforming raw data into meaningful insights that help drive better decisions.
+
+Currently working as an **MIS Executive**, where I work with business data, reporting, and Excel. Alongside my professional role, I'm continuously building my expertise in **Data Analytics** by developing real-world projects using Python, SQL, Power BI, and Statistics.
 
 ---
 
-## 🔧 Technical Skills
-- **Languages:** Python
-- **Data Analysis:** Pandas, NumPy, Matplotlib, Seaborn
-- **Concepts:** Data Structures & Algorithms, Exploratory Data Analysis
-- **Tools:** Git, GitHub, VS Code, Jupyter Notebook
-- **Other:** Unity (Simulation), ML-Agents (basic)
+## 💼 Current Focus
+
+- 📊 Data Analysis & Business Intelligence
+- 🐍 Python for Data Analytics
+- 🗄 SQL
+- 📈 Power BI Dashboard Development
+- 📑 Advanced Excel
+- 📊 Statistics & Probability
+- 🤖 Machine Learning (Learning)
 
 ---
 
-## 📌 Featured Projects
+## 🛠 Tech Stack
 
-### 📊 Exploratory Sales Data Analysis
-- Performed end-to-end EDA on a retail sales dataset using Python
-- Analyzed customer behavior based on age, seasonality, and subscription status
-- Visualized insights using Matplotlib and Seaborn  
-🔗 Repo: https://github.com/Amit-1216/exploratory-sales-data-analysis
+### Programming
+- Python
+
+### Data Analysis
+- Pandas
+- NumPy
+
+### Data Visualization
+- Matplotlib
+- Seaborn
+- Power BI
+
+### Database
+- SQL
+
+### Spreadsheet Tools
+- Advanced Excel
+- Pivot Tables
+- Power Query
+
+### Tools
+- Git
+- GitHub
+- Jupyter Notebook
+- Google Colab
+- VS Code
 
 ---
 
-### 🧠 Data Structures & Algorithms (Python)
-- Implemented core data structures including stacks, queues, linked lists, and sorting algorithms
-- Focused on clean, readable code and algorithmic thinking  
-🔗 Repo: https://github.com/Amit-1216/data-structures-and-algorithms-python
+# 📌 Featured Projects
+
+## 📊 Exploratory Sales Data Analysis
+
+- Performed end-to-end Exploratory Data Analysis using Python
+- Cleaned and transformed raw datasets
+- Generated business insights using visualizations
+
+🔗 Repository:
+<PRIVATE_URL>
 
 ---
 
-### 🚗 Autonomous Car Simulation
-- Built a simulation to explore autonomous vehicle movement and sensor-based logic
-- Gained hands-on experience with Unity and simulation environments  
-🔗 Repo: https://github.com/Amit-1216/autonomous-car-simulation-mlagents
+## 🏥 Hospital Patient Data Analysis
+
+- Cleaned healthcare datasets using Pandas
+- Merged multiple datasets
+- Performed group-wise analysis
+- Prepared data for further business analysis
 
 ---
 
-## 🎯 Currently Learning
-- Advanced Pandas & data visualization
-- Problem-solving and optimization techniques
-- Applied machine learning concepts
+## 🚢 Titanic Data Analysis
+
+Solved multiple real-world Pandas problems including:
+
+- GroupBy Operations
+- Missing Value Handling
+- Feature Engineering
+- Data Cleaning
+- Aggregations using agg()
+- transform()
 
 ---
 
-## 📫 Connect with Me
-- GitHub: https://github.com/Amit-1216
+## 📊 Excel Report Automation
+
+Automated a multi-sheet Excel analysis workflow using Python.
+
+Workflow:
+
+- Imported multiple Excel sheets
+- Cleaned data using Pandas
+- Performed business analysis
+- Exported results back to Excel
+- Generated visualizations using Matplotlib
+
+This significantly reduced manual effort compared to performing the analysis entirely in Excel.
+
+---
+
+# 🌱 Currently Learning
+
+- Advanced SQL
+- Statistics & Probability
+- Power BI (DAX & Dashboarding)
+- Machine Learning
+- End-to-End Data Analysis Projects
+
+---
+
+# 📈 GitHub Stats
+
+I regularly upload:
+
+- Python Practice
+- Pandas Assignments
+- SQL Practice
+- Data Analysis Projects
+- Power BI Dashboards
+- Learning Notes
+
+---
+
+# 🤝 Let's Connect
+
+💼 LinkedIn:
+(Your LinkedIn URL)
+
+💻 GitHub:
+https://github.com/Amit-1216
+
+📧 Email:
+(Your Email)
+
+---
+
+⭐ *Always learning, building, and sharing my journey in Data Analytics.*
