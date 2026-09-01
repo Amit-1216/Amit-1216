@@ -154,7 +154,7 @@ Implementations of Arrays, Linked Lists, Stacks, Queues, Sorting Algorithms, and
 
 <div align="center">
 
-<img src="https://activity-graph.herokuapp.com/graph?username=Amit-1216&theme=tokyo-night" alt="Activity Graph" width="100%"/>
+<img src="https://github-readme-activity-graph-rho-flax.vercel.app/graph?username=Amit-1216&theme=tokyo-night&hide_border=true" alt="Activity Graph" width="100%"/>
 
 </div>
 
